@@ -1,0 +1,28 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "This is the description of what the page is",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanchaves/07-node-npm.git"
+  },
+  "keywords": [
+    "bannana",
+    "monkey",
+    "orangutan"
+  ],
+  "author": "Me: Juan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanchaves/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/juanchaves/07-node-npm#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
